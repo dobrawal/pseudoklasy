@@ -1,0 +1,40 @@
+
+  a {
+    color: blue;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+  }
+  
+  .primary-links a:link {
+    color: blue;
+  }
+  
+  .primary-links a:visited {
+    color: purple;
+  }
+  
+  .primary-links a:hover {
+    color: green;
+    text-decoration: underline;
+  }
+  
+  .primary-links a:active {
+    color: red;
+  }
+  
+  .secondary-links a:link {
+    color: darkorange;
+  }
+  
+  .secondary-links a:visited {
+    color: darkmagenta;
+  }
+  
+  .secondary-links a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+  }
+  
+  .secondary-links a:active {
+    color: orangered;
+  }
